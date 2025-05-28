@@ -1,6 +1,6 @@
 {
   "name": "tsc-junit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "./bin/run",
   "description": "JUnit report generator for typescript",
   "repository": "https://github.com/iam-medvedev/tsc-junit.git",
