@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { GrammarItem, parse } from '@aivenio/tsc-output-parser';
+import { GrammarItem, parse } from '@leblayd/tsc-output-parser';
 import { getJunitXml, TestCase, TestSuiteReport } from 'junit-xml';
 
 /**

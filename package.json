@@ -24,7 +24,7 @@
     "types": "tsc --noEmit"
   },
   "dependencies": {
-    "@aivenio/tsc-output-parser": "^2.1.1",
+    "@leblayd/tsc-output-parser": "^2.2.0",
     "junit-xml": "^1.2.0",
     "yargs": "^17.3.1"
   },
